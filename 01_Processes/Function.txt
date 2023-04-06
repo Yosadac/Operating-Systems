@@ -1,0 +1,10 @@
+Requirements: Compile from linux terminal
+The operation of the code consists of generating parent and child processes,
+checks if there is a parent process, if there is not it creates it and if there is it creates a child process.
+child process.
+
+
+Requerimientos: Compilar desde la terminal de linux
+El funcionamiento del código consiste en generar procesos padre y procesos hijos,
+comprueba si hay un proceso padre, sino lo hay lo crea y si lo hay crea un proceso
+hijo. 

@@ -1,0 +1,9 @@
+Requirements: The program is written in C but to see how it works run the Random_files.bat file.
+This code will generate 10 files of random type, with random name and random content and with random content, 
+For this program we used 2 codes where the first one named "Random_files" calls 10 times to the second one named 
+"hello" which is to the second one named "hello" which is the one that generates the files.
+
+Requerimientos: El programa está escrito en C pero para ver su funcionamiento ejecute el archivo Random_files.bat
+Este código generara 10 archivos de tipo aleatorio, con nombre aleatorio y con contenido aleatorio.
+Para este programa se ocuparon 2 códigos donde el primer de nombre "Random_files" llama 10 veces
+al segundo de nombre "hola" que es el que genera los archivos.

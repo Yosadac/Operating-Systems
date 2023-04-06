@@ -1,0 +1,13 @@
+Requirements: The program is written in C but to see how it works run the .bat file and you must have a .txt file with randomly unsorted 
+numbers. .txt file with randomly unsorted numbers.
+The code will sort the numbers contained in the input file and return the result in another output file.
+Usage: When running from the terminal the syntax should be placed as follows: 
+"Executable.bat" "InputFileName.txt" "OutputFileName.txt"
+
+
+Requerimientos: El programa está escrito en C pero para ver su funcionamiento ejecute el archivo .bat y se debe tener un
+archivo .txt con números desordenados de forma aleatoria
+El código ordenara los números contenidos en el archivo de entrada y devolverá el resultado en otro archivo de salida.
+Uso: Cuando se ejecute desde la terminal se debe colocar la sintaxis de la siguiente forma: 
+"Ejecutable.bat" "NombreDelArchivoEntrada.txt" "NombreDelArchivoSalida.txt"
+

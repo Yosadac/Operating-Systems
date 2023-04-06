@@ -1,0 +1,6 @@
+Requirements: The program is written in C but to see how it works run the file with extension .bat
+This code has the functions to copy, move, delete and hide a file. 
+
+
+Requerimientos: El programa está escrito en C pero para ver su funcionamiento ejecute el archivo con extension .bat
+Este código tiene las funciones de copiar, mover, eliminar y ocultar un archivo. 

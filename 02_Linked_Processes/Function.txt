@@ -1,0 +1,7 @@
+Requirements: Execute the code on 2 linux terminals.
+This code coordinates the linking of two processes through the use of
+shared memory where turns are taken between each process. 
+
+Requerimientos: Ejecutar el código en 2 terminales de linux
+Este código coordina el enlace de dos procesos mediante el uso de
+memoria compartida en donde se toman turnos entre cada proceso. 

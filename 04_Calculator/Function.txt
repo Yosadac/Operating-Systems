@@ -1,0 +1,7 @@
+Requirements: The program is written in C but to see how it works run the file with extension .bat
+The code simulates the operation of a simple calculator, with the operations add, subtract, multiply, divide, add 5 numbers, 
+get the average of 2 numbers, the average of two numbers, a greeting and the option to exit.
+
+Requerimientos: El programa está escrito en C pero para ver su funcionamiento ejecute el archivo con extension .bat
+El código simula el funcionamiento de una calculadora simple, con las operaciones sumar, restar, multiplicar, dividir, sumar 5 números, 
+obtener el promedio de 2 números, la media de dos números, un saludo y la opción de salir.

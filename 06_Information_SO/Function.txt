@@ -1,0 +1,5 @@
+Requirements: The program is written in C but to see how it works run the .bat file.
+When running, it should display information about the operating system.
+
+Requerimientos: El programa está escrito en C pero para ver su funcionamiento ejecute el archivo .bat
+Al ejecutarse debe mostrar información sobre el sistema operativo
