@@ -1,0 +1,65 @@
+Precondition: This game can only be played on Linux
+
+Install:
+apt update
+apt install software-properties-common
+apt-get install inotify-tools
+apt install ncat
+apt-get install inotify-tools
+
+Instructions:
+1. Select the player1 and player2 folders accordingly.
+2. Open a root terminal
+3. If necessary compile the program in C with the command: 
+    gcc juego.c -o juego
+3. Execute chmod +x envia0.sh
+4. Execute chmod +x juego
+5. Execute ./envia0.sh
+6. Execute ./juego
+7. Start playing
+
+Gameplay:
+- Start by placing the coordinates where you want your ships.
+- If you are player1 you will attack first, you must enter the coordinate where you want to attack.
+- Automatically the game will tell you if you hit one of the player2 ships.
+- If you hit a ship it will show you the map coordinates with the coordinate you hit changed to "XX".
+- If you didn't hit it, it will change to "00".
+- Automatically end your turn and wait for player2 to attack you.
+- It will show you the coordinate where player2 attacked and if he hit one of your ships.
+- It will show you the remaining ships in their respective coordinates.
+- Repeats from point 2 
+
+
+//---------------------------------------------------------------
+//----------------------------------------------------------------
+
+
+Precondición: Este juego solo se puede jugar en Linux
+Instalar:
+apt update
+apt install software-properties-common
+apt-get install inotify-tools
+apt install ncat
+apt-get install inotify-tools
+Instrucciones:
+1. Elegir las carpetas player1 y player2 correspondientemente
+2. Abrir una terminal de root
+3. En caso de ser necesario compilar el programa en C con el comando: 
+    gcc juego.c -o juego
+3. Ejecutar chmod +x envia0.sh
+4. Ejecutar chmod +x juego
+5. Ejecutar ./envia0.sh
+6. Ejecutar ./juego
+7. Comenzar a jugar
+
+Juego:
+- Comenzar colocando las coordenadas donde quieres tus barcos
+- Si eres player1 atacaras primero, deberas ingresar la coordenada a la que quieres atacar
+- Automaticamente el juego te dirá si le diste a una de las naves del player2
+- Si le diste a un barco te mostrará el mapa de coordenadas con la coordenada en la que acertaste cambiada por "XX"
+- Sino acertaste se cambiara por "00"
+- Automaticamente acaba tu turno y esperas a que el player2 te ataque
+- Te mostrará la coordenada en la que el player2 atacó y si le dió a una de tus naves
+- Te mostrará las naves que te quedan en sus respectivas coordenadas
+- Se repite desde el punto 2 
+
