@@ -9,14 +9,15 @@ apt-get install inotify-tools
 
 Instructions:
 1. Select the player1 and player2 folders accordingly.
-2. Open a root terminal
-3. If necessary compile the program in C with the command: 
+2. In the "envia0" file modify the IP with that of the opposing player
+3. Open a root terminal
+4. If necessary compile the program in C with the command: 
     gcc juego.c -o juego
-3. Execute chmod +x envia0.sh
-4. Execute chmod +x juego
-5. Execute ./envia0.sh
-6. Execute ./juego
-7. Start playing
+5. Execute chmod +x envia0.sh
+6. Execute chmod +x juego
+7. Execute ./envia0.sh
+8. Execute ./juego
+9. Start playing
 
 Gameplay:
 - Start by placing the coordinates where you want your ships.
@@ -41,16 +42,18 @@ apt install software-properties-common
 apt-get install inotify-tools
 apt install ncat
 apt-get install inotify-tools
+
 Instrucciones:
 1. Elegir las carpetas player1 y player2 correspondientemente
-2. Abrir una terminal de root
-3. En caso de ser necesario compilar el programa en C con el comando: 
+2. En el archivo "envia0" modificar la IP con la del jugador contrario
+3. Abrir una terminal de root
+4. En caso de ser necesario compilar el programa en C con el comando: 
     gcc juego.c -o juego
-3. Ejecutar chmod +x envia0.sh
-4. Ejecutar chmod +x juego
-5. Ejecutar ./envia0.sh
-6. Ejecutar ./juego
-7. Comenzar a jugar
+5. Ejecutar chmod +x envia0.sh
+6. Ejecutar chmod +x juego
+7. Ejecutar ./envia0.sh
+8. Ejecutar ./juego
+9. Comenzar a jugar
 
 Juego:
 - Comenzar colocando las coordenadas donde quieres tus barcos
